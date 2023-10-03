@@ -3,11 +3,11 @@ Aplikasi Pengolahan Laundry sekaligus bisa mencetak kode invoice yang dapat digu
 Aplikasi ini dibangun menggunakan PHP versi 7 dengan framework CodeIgniter 3 dan framework Bootstrap 4.
 
 ## Tampilan Aplikasi
-![ss](assets/ss1.png)
-![ss](assets/ss2.png)
-![ss](assets/ss3.png)
-![ss](assets/ss4.png)
-![ss](assets/ss5.png)
+//![ss](assets/ss1.png)
+//![ss](assets/ss2.png)
+//![ss](assets/ss3.png)
+//![ss](assets/ss4.png)
+//![ss](assets/ss5.png)
 
 ___
 ## Fitur-fitur:
